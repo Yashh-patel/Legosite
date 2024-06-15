@@ -2,8 +2,8 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<title>Home | COMP1002 HTML, CSS, and JS Fundamentals</title>
-		<meta name="author" content="The name of the document’s author to go here" />
+		<title>Home | HTML, CSS, and JS </title>
+		<meta name="Yashh" content="Basic lego site" />
 		<meta name="description" content="A concise and accurate summary of the document content is to appear here">
 		<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
 		<link rel="stylesheet" href="css/styles.css" />
@@ -12,7 +12,7 @@
 		<!-- Page-level header -->
 		<header>
  			<img src="images/html-logo.svg" height="75" width="75" alt="HTML" />
-			<h1>HTML, CSS, and JS Fundamentals</h1>
+			<h1>HTML, CSS, and JS Basics</h1>
 			<h2>Building Blocks for Web Developers</h2>
 <?php
 	include("./includes/global-nav.php");
